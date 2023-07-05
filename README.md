@@ -1,4 +1,4 @@
-# WORD SEARCH GAME
+# BLOCK BREAKER
 It is a feature-enriched version of the classic block breaking game.
 
 ## Watch Game Play
